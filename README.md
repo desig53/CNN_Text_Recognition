@@ -10,8 +10,6 @@ images : 用來預測的圖片
 
 cnn_redo.py : 
 
-辨識資料集為 : keras datasets 的 mnist
-
 程式功能，包含: 
 
 1.資料處理
@@ -19,3 +17,17 @@ cnn_redo.py :
 2.訓練model
 
 3.預測圖片
+
+相關套件與資料集:
+
+Python版本 3.7.3
+
+辨識資料集為 : keras datasets 的 mnist
+
+keras 2.3.1
+
+pandas 1.1.3
+
+matplotlib 3.3.3
+
+PIL 7.1.1
